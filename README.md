@@ -35,6 +35,11 @@ Download the code to your GO environment and build it with
 
 Move the binary to a location of your choice, and you're ready to go.
 
+### Download the binary
+Download the binary file (clickhouseimporter). 
+
+Move the binary to a location of your choice, and you're ready to go.
+
 ### Setting up the database on clickhouse
 The following commands will create a database called "audit" with one table called "mysql_audit_log" from the SQL files included in the repository:
 
